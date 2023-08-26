@@ -181,8 +181,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c24eac40d435e464a961dc234ee9bcea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpForce: 10
+  jumpForce: 15
   rb: {fileID: 201568717}
+  currentcolor: 
 --- !u!212 &201568719
 SpriteRenderer:
   m_ObjectHideFlags: 0
